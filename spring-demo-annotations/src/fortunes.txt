@@ -1,0 +1,14 @@
+fortune number 1
+fortune number 2
+fortune number 3
+fortune number 4
+fortune number 5
+fortune number 6
+fortune number 7
+fortune number 8
+fortune number 9
+fortune number 10
+fortune number 11
+fortune number 12
+fortune number 13
+fortune number 14
